@@ -1,8 +1,7 @@
 A = input()
 
 # Please write your code here.
-A = list(map(str, A))
-print(A)
+A = list(A)
 
 cnt = 0
 
